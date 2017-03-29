@@ -140846,7 +140846,7 @@ bf 1 playerid 0.155.0 90
 sr 9
 
 u_i 1 610505 2 6 0 0 
-guri 4 4 0 0 Tequierofea
+guri 10 4 1 0 Tequierofea
 csp 610505 Tequierofea
 csp 610505 Tequierofea
 csp 610505 Tequierofea
@@ -141294,3 +141294,12 @@ info Tu es déjà sur sa liste noire.
 btk 633833 Hello
 
 talk 633833 Salut !
+
+in 3 24 1786 54 153 2 100 100 0 0 0 -1 0 0 -1 - 0 -1 0 0 0 0 0 0 0 0
+ms_c 0
+qslot 0 1.1.10 1.1.1 1.1.2 1.1.6 1.1.4 0.7.-1 0.7.-1 0.7.-1 0.7.-1 0.1.47
+qslot 1 1.1.5 1.1.3 1.1.7 1.1.8 1.1.9 1.1.10 1.1.1 1.1.2 1.1.8 1.1.4
+qslot 2 0.7.-1 0.2.-1 0.7.-1 0.7.-1 0.1.47 1.1.5 1.1.3 1.1.7 1.1.6 1.1.9
+ct 1 PLAYERID 3 1909 34 4351 1091
+scp 1
+su 1 PLAYERID 3 1909 1091 120 13 4331 27 154 0 0 33070 0 0
