@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Definition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <QuestGiver>
+    <Type>InitialQuest</Type>
+    <QuestGiverId>-1</QuestGiverId>
+    <MinimumLevel>1</MinimumLevel>
+    <MaximumLevel>255</MaximumLevel>
+  </QuestGiver>
+  <QuestDataVNum>0</QuestDataVNum>
+  <QuestGoalType>0</QuestGoalType>
+  <Reward>
+    <ForceLevelUp>5</ForceLevelUp>
+    <ForceJobUp>0</ForceJobUp>
+    <ForceHeroUp>0</ForceHeroUp>
+    <Buff>116</Buff>
+    <DisplayRewardWindow>true</DisplayRewardWindow>
+    <TeleportPosition AskTeleport="false" MapId="1" MapX="75" MapY="75" />
+    <QuestId>-1</QuestId>
+  </Reward>
+  <WalkObjective>
+    <Finished>false</Finished>
+    <HiddenGoal>false</HiddenGoal>
+    <MapId>1</MapId>
+    <MapX>53</MapX>
+    <MapY>154</MapY>
+  </WalkObjective>
+</Definition>
